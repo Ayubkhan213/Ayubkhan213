@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Flutter%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <!-- Your Profile Picture -->
-<img src="YOUR_IMAGE_URL_HERE" width="180" style="border-radius: 50%; border: 4px solid #2196F3; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Profile Picture"/>
+<img src="https://raw.githubusercontent.com/Ayubkhan213/Ayubkhan213/main/IMG_7111%20(1).jpg" width="220" height="220" style="border-radius: 50%; border: 4px solid #2196F3; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Profile Picture"/>
 
 <!-- Animated Name & Title -->
 <h1>
@@ -22,15 +22,17 @@
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Ayubkhan213">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <!-- <a href="https://github.com/Ayubkhan213">
+  <img src="https://github.com/Ayubkhan213.png" alt="GitHub Profile" width="100" />
+</a> -->
+
 </p>
 
 <!-- Platform Icons with Animation -->
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,ios,windows,linux,html,css,js,php,mysql,git,github,vscode,postman&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,windows,html,css,php,mysql,git,github,postman&perline=8" alt="Tech Stack" />
 </p>
 
 </div>
@@ -109,9 +111,9 @@ I'm a passionate Flutter Developer with 2+ years of experience building high-qua
 ### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -284,7 +286,7 @@ I'm a passionate Flutter Developer with 2+ years of experience building high-qua
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 
@@ -304,7 +306,7 @@ I'm a passionate Flutter Developer with 2+ years of experience building high-qua
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
