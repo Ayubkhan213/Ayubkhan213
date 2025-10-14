@@ -1,4 +1,4 @@
-Hi there, I'm [Your Name] 👋
+Hi there, I'm Ayub Khan 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Developer;Mobile+App+Enthusiast;Clean+Architecture+Advocate;2%2B+Years+Experience" alt="Typing SVG" /> </div>
 🚀 About Me
 I'm a passionate Flutter Developer with over 2 years of experience building high-quality mobile applications. Currently working at SMSAMI Peshawar, I specialize in creating scalable, maintainable applications using clean architecture and modern development practices.
