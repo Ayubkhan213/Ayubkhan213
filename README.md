@@ -42,7 +42,7 @@
 
 ```dart
 class Developer {
-  final String name = "Muhammad Ahmad";
+  final String name = "Ayub Khan";
   final String role = "Flutter Developer";
   final String location = "Peshawar, Pakistan";
   final String education = "Bachelor of IT - Agriculture University";
