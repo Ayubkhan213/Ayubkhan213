@@ -9,7 +9,7 @@
 
 <!-- Animated Name & Title -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&repeat=false&width=435&lines=Muhammad+Ahmad" alt="Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&repeat=false&width=435&lines=Ayub+Khan" alt="Name" />
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Flutter+%7C+Dart+Developer;Mobile+App+Enthusiast;Clean+Architecture+Advocate;2%2B+Years+Professional+Experience;Building+Beautiful+Apps+%F0%9F%9A%80" alt="Typing SVG" />
@@ -17,13 +17,13 @@
 <!-- Social Badges with Animation -->
 <p>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
@@ -35,35 +35,11 @@
 
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
-```dart
-class Developer {
-  final String name = "Ayub Khan";
-  final String role = "Flutter Developer";
-  final String location = "Peshawar, Pakistan";
-  final String education = "Bachelor of IT - Agriculture University";
-  final double cgpa = 3.39;
-  
-  List<String> currentlyLearning = [
-    "Advanced Flutter Architecture",
-    "State Management Patterns",
-    "Flutter Web & Desktop"
-  ];
-  
-  Map<String, int> experience = {
-    "Flutter": 2,
-    "Dart": 2,
-    "Firebase": 2,
-    "Professional": 1.5
-  };
-  
-  String motto = "Clean code always looks like it was written by someone who cares.";
-}
-```
+I'm a passionate Flutter Developer with 2+ years of experience building high-quality mobile applications. Currently working at SMSAMI Peshawar, I specialize in creating scalable, maintainable applications using clean architecture and modern development practices.
 
 <table>
 <tr>
@@ -82,43 +58,37 @@ class Developer {
 </td>
 <td width="50%">
 
-### 🎯 Expertise
+### 🎯 Core Expertise
 
-```yaml
-Mobile Development:
-  - UI/UX to Code Conversion ✨
-  - Clean Architecture 🏗️
-  - State Management (BLoC, GetX, Provider) 🔄
-  - Flutter Flavors 🎨
-  - Third-party Integration 🔌
-  
-Backend & Database:
-  - Firebase Suite 🔥
-  - MySQL & SQLite 💾
-  - REST APIs 🌐
-  - Local Storage (Hive, Sqflite) 📦
-```
+**Mobile Development:**
+- UI/UX to Code Conversion ✨
+- Clean Architecture 🏗️
+- State Management (BLoC, GetX, Provider) 🔄
+- Flutter Flavors 🎨
+- Third-party Integration 🔌
+
+**Backend & Database:**
+- Firebase Suite 🔥
+- MySQL & SQLite 💾
+- REST APIs 🌐
+- Local Storage (Hive, Sqflite) 📦
 
 </td>
 </tr>
 </table>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 Professional Journey
 
-```mermaid
-timeline
-    title My Professional Experience
-    Feb 2022 - Sep 2023 : Corlinks Academy : Mobile App Developer
-    Sep 2023 - Nov 2023 : Eziline Software House : Flutter Developer (Intern)
-    Nov 2023 - Jul 2024 : PTCP Protech Code Park : Mobile App Developer
-    Jul 2024 - Oct 2024 : Khyber Coded : Flutter Developer
-    Oct 2024 - Present : SMSAMI Peshawar : Senior Flutter Developer
-```
+| Duration | Role | Company | Location |
+|----------|------|---------|----------|
+| **Oct 2024 - Present** | Senior Flutter Developer | SMSAMI | Peshawar |
+| **Jul 2024 - Oct 2024** | Flutter Developer | Khyber Coded | Peshawar |
+| **Nov 2023 - Jul 2024** | Mobile App Developer | PTCP (Protech Code Park) | Peshawar |
+| **Sep 2023 - Nov 2023** | Flutter Developer (Intern) | Eziline Software House | Rawalpindi |
+| **Feb 2022 - Sep 2023** | Mobile App Developer | Corlinks Academy | Peshawar |
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack & Tools
@@ -157,7 +127,6 @@ timeline
 
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📱 Featured Projects & Published Apps
@@ -190,15 +159,13 @@ timeline
 <td width="50%">
 
 **⚙️ Tech Stack:**
-```yaml
-Framework: Flutter
-Architecture: Clean Architecture
-State Management: BLoC
-Backend: Firebase
-Database: Firestore
-Analytics: Firebase Analytics
-Charts: FL Chart
-```
+- **Framework:** Flutter
+- **Architecture:** Clean Architecture
+- **State Management:** BLoC
+- **Backend:** Firebase
+- **Database:** Firestore
+- **Analytics:** Firebase Analytics
+- **Charts:** FL Chart
 
 </td>
 </tr>
@@ -313,28 +280,22 @@ Charts: FL Chart
 
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   
-<!-- GitHub Stats Card -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 
-<!-- GitHub Streak Stats -->
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117"/>
 
-<!-- Top Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
 
-<!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
 
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
@@ -345,18 +306,6 @@ Charts: FL Chart
 
 </div>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 What I'm Currently Working On
@@ -368,7 +317,7 @@ Charts: FL Chart
 ### 🛍️ E-Commerce Platform
 Building scalable shopping solution
 <br/>
-![Progress](https://progress-bar.dev/75/?title=Progress&width=150)
+<img src="https://progress-bar.dev/75/?title=Progress&width=150" />
 
 </td>
 <td width="33%" align="center">
@@ -376,7 +325,7 @@ Building scalable shopping solution
 ### 📊 POS System
 Advanced retail management
 <br/>
-![Progress](https://progress-bar.dev/90/?title=Progress&width=150&color=00ff00)
+<img src="https://progress-bar.dev/90/?title=Progress&width=150&color=00ff00" />
 
 </td>
 <td width="33%" align="center">
@@ -384,13 +333,12 @@ Advanced retail management
 ### 🎓 Learning
 Flutter Web & Desktop
 <br/>
-![Progress](https://progress-bar.dev/60/?title=Progress&width=150&color=yellow)
+<img src="https://progress-bar.dev/60/?title=Progress&width=150&color=yellow" />
 
 </td>
 </tr>
 </table>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 2025 Goals
@@ -401,7 +349,6 @@ Flutter Web & Desktop
 - 🔄 Learn advanced animation techniques
 - 🔄 Build a SaaS product using Flutter
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 Ask Me About
@@ -416,7 +363,6 @@ Flutter Web & Desktop
 
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect!
@@ -448,5 +394,4 @@ Flutter Web & Desktop
 
 </div>
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
