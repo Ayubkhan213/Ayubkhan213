@@ -3,14 +3,14 @@
 
 <div align="center">
 
-<!-- Profile Picture — replace the URL below with your hosted image URL -->
-<img src="https://raw.githubusercontent.com/Ayubkhan213/Ayubkhan213/main/IMG_3019.jpg" width="160" height="160" style="border-radius:50%; border:3px solid #1565c0; box-shadow:0 8px 32px rgba(21,101,192,0.4);" alt="Ayub Khan"/>
+<!-- Profile Picture -->
+<img src="https://raw.githubusercontent.com/Ayubkhan213/Ayubkhan213/main/IMG_3019.jpg" width="160" height="160" alt="Ayub Khan"/>
 
 <br/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&repeat=true&width=620&lines=Flutter+%26+Dart+Engineer+%F0%9F%9A%80;Clean+Architecture+Specialist+%F0%9F%8F%97%EF%B8%8F;10%2B+Apps+on+Google+Play+Store+%F0%9F%93%B1;3%2B+Years+of+Professional+Experience+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&repeat=true&width=620&lines=Flutter+%26+Dart+Engineer+%F0%9F%9A%80;Clean+Architecture+Specialist+%F0%9F%8F%97%EF%B8%8F;10%2B+Apps+on+Google+Play+Store+%F0%9F%93%B1;2%2B+Years+of+Professional+Experience+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -41,7 +41,7 @@
 
 > *"Dedicated Software Engineer crafting elegant mobile experiences — one widget at a time."*
 
-I'm a **Senior Flutter Developer** with **3+ years** of hands-on experience building production-grade mobile applications. Based in **Peshawar, Pakistan**, I currently work at **Goritmi** where I architect scalable solutions using clean architecture principles and modern Flutter development practices.
+I'm a **Senior Flutter Developer** with **2+ years** of hands-on experience building production-grade mobile applications. Based in **Peshawar, Pakistan**, I currently work at **Goritmi** where I architect scalable solutions using clean architecture principles and modern Flutter development practices.
 
 I've shipped **10+ apps** to the Google Play Store, built white-label food ordering platforms, advanced POS dashboards, and everything in between. I'm passionate about clean code, beautiful UIs, and solving real-world problems.
 
